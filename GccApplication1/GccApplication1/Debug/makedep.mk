@@ -6,5 +6,7 @@ I2C.c
 
 main.c
 
+SPILib.c
+
 ssd1306.c
 
